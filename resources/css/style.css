@@ -19,14 +19,14 @@ html {
 html,
 body {
     height: 100%;
-    min-width: 980px;
+    min-width: 100%;
     background-color: #ffffff;
 }
 
 .wrapper {
     display: table; 
     height: 100%;
-    min-width: 100%;
+    min-width: 980px;
 }
 
 .content {
