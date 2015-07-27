@@ -57,7 +57,7 @@ body {
 
 .row {
     max-width: 1200px;
-    min-width: 980px;
+    /*min-width: 980px;*/
     margin: 0 auto;
     padding: 0 2%;
 }
