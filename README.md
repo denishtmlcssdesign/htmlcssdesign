@@ -1,1 +1,1 @@
-# https://postolenko.github.io/denishtmlcssdesign
+# https://postolenko.github.io/htmlcssdesign
