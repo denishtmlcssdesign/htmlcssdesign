@@ -1,0 +1,26 @@
+<?xml version="1.0"?><svg width="49.799828" height="49.799828" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter10685" height="1.196754" y="-0.098377" width="1.203355" x="-0.101678">
+   <feGaussianBlur id="feGaussianBlur10687" stdDeviation="0.757592"/>
+  </filter>
+  <linearGradient id="linearGradient5037">
+   <stop stop-color="#ffffff" offset="0" id="stop5039"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="stop5041"/>
+  </linearGradient>
+  <linearGradient y2="1.000025" x2="0.499979" y1="-0.000027" x1="0.499979" id="linearGradient2669" xlink:href="#linearGradient5037"/>
+  <linearGradient y2="0.358788" x2="0.564002" y1="0.944963" x1="0.672126" id="linearGradient2671" xlink:href="#linearGradient5037"/>
+ </defs>
+ <metadata id="metadata9558">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g transform="matrix(1.46678, 0, 0, 1.46678, -365.115, -101.405)" id="Stop">
+    <path fill="#007fff" fill-rule="nonzero" stroke="#0000ff" stroke-width="2.008375" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" d="m282.192627,86.110031a16.294117,16.294117 0 1 1 -32.588242,0a16.294117,16.294117 0 1 1 32.588242,0z" id="path9492"/>
+    <rect opacity="0.5" fill="#000000" fill-rule="nonzero" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" filter="url(#filter10685)" transform="matrix(1.15099, 0, 0, 1.15099, -43.4672, -13.0826)" y="79.022535" x="261.657635" height="15.401835" width="14.901835" id="rect10619"/>
+    <rect fill="#ffffff" fill-rule="nonzero" stroke="#0000ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" id="rect9494" width="14.901835" height="15.401835" x="258.447615" y="78.409121"/>
+    <path fill="url(#linearGradient2669)" fill-rule="nonzero" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" id="path10595" d="m276.628815,79.419556a10.730309,8.270382 0 1 1 -21.460617,0a10.730309,8.270382 0 1 1 21.460617,0z"/>
+    <path fill="url(#linearGradient2671)" fill-rule="nonzero" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" d="m252.592789,92.30011c3.169434,7.038963 11.355515,10.436478 18.635208,7.596001c7.275696,-2.838921 10.984833,-10.870529 8.540955,-18.186234c-1.974548,4.948387 -5.924347,9.094421 -11.282104,11.184975c-5.362946,2.09259 -11.078674,1.711388 -15.894058,-0.594742z" id="path10597"/>
+   </g>
+  </g>
+ </g>
+</svg>
