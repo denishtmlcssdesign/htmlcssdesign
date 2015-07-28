@@ -165,11 +165,11 @@ $(document).ready(function() {
 			});
 
 
-		var playBtnImg = "stop";
+		var playBtnImg = "pause";
 		// Stop-Play Button
 			$(".play-pause-btn").click(function() {		
 
-				if( playBtnImg == "stop" ){
+				if( playBtnImg == "pause" ){
 
 					clearTimeout(sliderStart);
 
@@ -181,13 +181,13 @@ $(document).ready(function() {
 				} else {
 
 					pauseSlide = "";
-					playBtnImg = "stop";
+					playBtnImg = "pause";
 					// console.log("start function showSlide");
 					showSlide();
 
 				}
 
-				$(".play-pause-btn ").attr("src","./slider/img/"+ playBtnImg +"_button.svg");
+				$(".play-pause-btn ").attr("src","./slider/img/"+ playBtnImg +"_btn.svg");
 				$(".play-pause-btn ").attr("alt",playBtnImg);
 				
 			});
