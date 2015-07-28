@@ -26,14 +26,14 @@ body {
 .wrapper {
     display: table; 
     height: 100%;
-     min-width: 980px;
+    min-width: 100%;
 }
 
 .content {
     position: relative;
     display: table-row;
     height:100%;
-    min-width: 100%;
+    min-width: 980px;
 }
 
 .clearfix:after {
